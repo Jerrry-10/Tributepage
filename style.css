@@ -1,0 +1,28 @@
+#main
+{
+  display: block
+  text-align: center;
+  background-color: yellow;
+}
+h1{
+  font-size: 25px;
+}
+#title{
+  text-align: center;
+}
+#img-div p{
+  text-allign: center;
+}
+#img-caption p{
+  text-allign: center;
+}
+#image{
+  text-allign: center;
+  max-width: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-allign: center;
+}
